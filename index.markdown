@@ -8,7 +8,7 @@ description: DNVR Notary provides mobile notary services in the Denver Metro are
 
 ## About
 
-DNVR Notary is owned and operated by Erik Kieckhafer, a member of the National Notary Association, and commissioned in Colorado as a Notary Public amd Signing Agent. Services are available 24/7.
+DNVR Notary is owned and operated by Erik Kieckhafer, a member of the National Notary Association, commissioned in Colorado as a Notary Public and Signing Agent. Services are available 24/7.
 
 ## Pricing
 
