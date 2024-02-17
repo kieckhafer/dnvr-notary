@@ -17,7 +17,11 @@ DNVR Notary is owned and operated by Erik Kieckhafer, a member of the National N
 - $15 minimum
 
 ### Travel Fees
-- $10 travel fee if less than 5 miles from Civic Center Park
+- $10 travel fee if less than 5 miles from Civic Center Park. Travel fee is waived if we meet at any of the following locations:
+  - Dazbog Coffee, 9th & Downing
+  - St. Mark's Coffeeshop, 17th & Vine
+  - Tattered Cover Book Store, Colfax & Columbine
+  - Thump Coffee, 13th & Downing
 - $25 travel fee if 5 - 25 miles from Civic Center Park
 - $50 travel fee if 25 - 50 miles from Civic Center Park
 - $100 travel fee if 50 - 100 miles from Civic Center Park
