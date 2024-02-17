@@ -8,15 +8,22 @@ description: DNVR Notary provides mobile notary services in the Denver Metro are
 
 ## About
 
-DNVR Notary provides services by Erik Kieckhafer, a member of the National Notary Association, commissioned in Colorado as a Notary Public. Services are available 24/7.
+DNVR Notary is owned and operstes by Erik Kieckhafer, a member of the National Notary Association, and commissioned in Colorado as a Notary Public amd Signing Agent. Services are available 24/7.
 
 ## Pricing
 
+### Basic
 - $5 per signature
-- $25 travel fee within 25 miles of the capital building in Denver
-- $50 travel fee outside this radius
-- $50 fee for services rendered between 7pm - 7am
-- $25 fee for services performed on Saturday or Sunday
+- $15 minimum
+
+### Travel Fees
+- $25 travel fee if less than 25 miles from Civic Center Park
+- $50 travel fee if 25 - 50 miles from Civic Center Park
+- $100 travel fee if 50 - 100 miles from Civic Center Park
+
+### After Hour Fees
+- $25 fee for services rendered on the weekend (7pm Friday - 7am Monday)
+- $100 fee for services rendered between 7pm - 7am
 
 ## Contact
 
