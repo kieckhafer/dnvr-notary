@@ -17,7 +17,8 @@ DNVR Notary is owned and operated by Erik Kieckhafer, a member of the National N
 - $15 minimum
 
 ### Travel Fees
-- $25 travel fee if less than 25 miles from Civic Center Park
+- $10 travel fee if less than 5 miles from Civic Center Park
+- $25 travel fee if 5 - 25 miles from Civic Center Park
 - $50 travel fee if 25 - 50 miles from Civic Center Park
 - $100 travel fee if 50 - 100 miles from Civic Center Park
 
